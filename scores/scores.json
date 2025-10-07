@@ -17,7 +17,7 @@
       "DeTe4": 0
     },
     "Explicit to Implicit Tests": {
-      "ExtoImTe1": 0
+      "ExtoImTe1": 1
     },
     "Declarations to Arrow Tests": {
       "DetoArTe1": 1
@@ -57,9 +57,9 @@
   },
   "humanReadable": {
     "From Scratch Tests": "8/8",
-    "finalTestScore": "FINAL SCORE: 9/14",
+    "finalTestScore": "FINAL SCORE: 10/14",
     "Debug Tests": "0/4",
-    "Explicit to Implicit Tests": "0/1",
+    "Explicit to Implicit Tests": "1/1",
     "Declarations to Arrow Tests": "1/1"
   }
 }
